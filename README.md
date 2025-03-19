@@ -1,4 +1,4 @@
-# 🧑‍💻 Portfoleo
+# 🧑‍💻 Portfolio
 
 <div align="center">
 
